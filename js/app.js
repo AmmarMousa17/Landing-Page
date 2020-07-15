@@ -75,7 +75,7 @@ const sectionView = () => {
         if(inviewport()){
         section.classList.add('your-active-class');
         var x=  section.querySelector('h2');
-        x.style.cssText="color:green"; //To clearwhich section is being viewed
+        x.style.cssText="color:green"; //To clear which section is being viewed
          
         }
         
